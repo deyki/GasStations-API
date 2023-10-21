@@ -5,7 +5,7 @@
 * PostgreSQL
 
 # Description
-* GasStations-API is a small project with a simple purpose to collect gas stations data and present it in a convenient way.
+* GasStations-API is a small project with a simple purpose to collect gas stations data in Germany from this link: https://wejago.de/assets/data/gas-stations-data.json and present it in a convenient way.
 * 1 - Collect data for stations -> **/api/getData
 * 2 - Get all stations names -> **/api/getStationsNames
 * 3 - Search for a station by name -> **/api/getStation/{stationName}
