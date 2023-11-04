@@ -1,0 +1,16 @@
+GasStationsAPI\GasStationsAPI\GasStationsApiApplication.class
+GasStationsAPI\GasStationsAPI\client\StationClient.class
+GasStationsAPI\GasStationsAPI\config\WebClientConfig.class
+GasStationsAPI\GasStationsAPI\model\ResponseMessage.class
+GasStationsAPI\GasStationsAPI\config\BeanConfig.class
+GasStationsAPI\GasStationsAPI\service\impl\StationServiceImpl.class
+GasStationsAPI\GasStationsAPI\controller\StationController.class
+GasStationsAPI\GasStationsAPI\model\JsonDataDTO.class
+GasStationsAPI\GasStationsAPI\error\RestResponseEntityExceptionHandler.class
+GasStationsAPI\GasStationsAPI\error\StationNotFoundException.class
+GasStationsAPI\GasStationsAPI\repository\StationRepository.class
+GasStationsAPI\GasStationsAPI\entity\Station.class
+GasStationsAPI\GasStationsAPI\error\InvalidFuelTypeException.class
+GasStationsAPI\GasStationsAPI\model\FuelInfoResponse.class
+GasStationsAPI\GasStationsAPI\model\StationDTO.class
+GasStationsAPI\GasStationsAPI\service\StationService.class
