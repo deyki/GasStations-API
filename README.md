@@ -3,6 +3,11 @@
 * Spring-boot 3
 * Spring-data-jpa
 * PostgreSQL
+* Docker
+
+# Local setup
+* 1 - Download project
+* 2 - Run this command -> docker compose up -d
 
 # Description
 * GasStations-API is a small project with a simple purpose to collect gas stations data in Germany and present it in a convenient way.
